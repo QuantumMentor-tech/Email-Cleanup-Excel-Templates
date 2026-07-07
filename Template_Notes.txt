@@ -1,0 +1,10 @@
+Excel templates included:
+
+- Email_Cleaner_Template.xlsx
+- Advanced_Email_Cleaner_10k_Template.xlsx
+- Email_Cleaner_Copy_Ready.xlsx
+- Advanced_Email_Cleaner_10k_Template_v2_Copy_Ready.xlsx
+- Advanced_Email_Cleaner_10k_Template_v3_Fixed.xlsx
+- Advanced_Email_Cleaner_Final_Professional_Template.xlsx
+
+Recommended first try: Advanced_Email_Cleaner_10k_Template_v3_Fixed.xlsx or Advanced_Email_Cleaner_Final_Professional_Template.xlsx
